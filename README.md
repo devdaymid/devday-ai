@@ -1,14 +1,10 @@
-# devday-ai
-Descripción del evento DevDay AI 2019
-
-
-
 ## Developer Day Artificial Intelligence Merida 2019
 
 ### PREGUNTAS FRECUENTES
 
 #### ¿Dónde serán los talleres?
-En el Instituto Yucateco de Emprendedores (IYEM). La dirección es Avenida Principal, Industrias No Contaminantes 12613, Hacienda Sodzil Nte., en la ciudad de Mérida, Yucatán.
+En el Instituto Yucateco de Emprendedores (IYEM). La dirección es Avenida Principal, Industrias No Contaminantes 12613, Hacienda Sodzil Nte., en la ciudad de Mérida, Yucatán. Adquiere tus entradas [aquí](https://devdaymidai2019.eventbrite.com) y revisa el programa de actividades [aquí]( https://github.com/devdaymid/devday-ai/blob/master/devdaymidAI2019final.png)
+.  
 
 #### ¿Cómo llego al IYEM?
 Puedes tomar las rutas de transporte público Komchén (te deja en la puerta), Chuburná 21 y 82 García Ginerés (todos llegan a la facultad de ingeniería de la UADY, que está muy cerca del IYEM).
