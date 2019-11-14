@@ -13,8 +13,8 @@ En el Instituto Yucateco de Emprendedores (IYEM). La dirección es Avenida Princ
 #### ¿Cómo llego al IYEM?
 Puedes tomar las rutas de transporte público Komchén (te deja en la puerta), Chuburná 21 y 82 García Ginerés (todos llegan a la facultad de ingeniería de la UADY, que está muy cerca del IYEM).
 Los paraderos en el CENTRO de la ciudad de Mérida son:
-Komchén, Chuburná 21: Calle 58 entre 61 y 59.
-82 García Ginerés: Calle 56 entre 63 y 61.
+* Komchén y Chuburná 21: Calle 58 entre 61 y 59.
+* 82 García Ginerés: Calle 56 entre 63 y 61.
 
 #### ¿Qué talleres y pláticas habrá?
 Habrá un total de 6 pláticas y 8 talleres. Dale un vistazo al programa completo de actividades 
