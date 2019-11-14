@@ -46,17 +46,17 @@ y traer tu laptop con el software apropiado.
 Los requisitos específicos por taller son los siguientes:
 
 ##### Talleres matutinos:
-Reconocimiento de patrones en bioseñales: Python 2.7
-Object recognition with python for beginers: Python 
-Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7, Sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
-Representation Learning- Una red neuronal, multiples soluciones:
+* Reconocimiento de patrones en bioseñales: Python 2.7
+* Object recognition with python for beginers: Python 
+* Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7, Sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
+* Representation Learning- Una red neuronal, multiples soluciones:
 
 
 ##### Talleres vespertinos:
-Introducción a Keras: laptop con python y keras instalado en su versión estable más reciente.
-Introducción al ML: Python 3.6 o 3.7 y deseable linux instalado
-Análisis de graph databases: 
-Procesamiento de lenguaje natural: Acceso a internet, navegador compatible con Google Colab.
+* Introducción a Keras: laptop con python y keras instalado en su versión estable más reciente.
+* Introducción al ML: Python 3.6 o 3.7 y deseable linux instalado
+* Análisis de graph databases: 
+* Procesamiento de lenguaje natural: Acceso a internet, navegador compatible con Google Colab.
 
 
 #### ¿Dónde está disponible el material o código que se imparta en los talleres?
