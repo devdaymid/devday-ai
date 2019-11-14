@@ -34,21 +34,18 @@ Después, selecciona la cantidad de entradas que necesites para cada taller/plá
 Tu ticket de entrada de evenbrite lo puedes traer desde tu celular, no es necesario imprimirlo. Usaremos escaneo de los códigos QR para llevar los accesos y registros.
 
 #### ¿Qué conocimientos requiero?
-Para los talleres en general es indispensable tener bases de programación (ej. bucles,arrays y matrices, funciones) y un IDE ya instalado (Jupyter o cualquiera de Python recomendados). 
+Para los talleres en general es indispensable tener bases de programación (ej. bucles,arrays y matrices, funciones) y un IDE ya instalado (Jupyter preferentemente aunque cualquiera de Python con las bibliotecas de análisis de datos son factibles). 
 
 
 #### ¿Qué debo llevar a los talleres/pláticas?
 
-Cada actividad tiene distintos requisitos. 
 Para las charlas matutinas del salón RAE no es necesario llevar equipo.
-y traer tu laptop con el software apropiado. 
-
-Los requisitos específicos por taller son los siguientes:
+Para los talleres es indispensable traer tu laptop con el software apropiado, cada taller tiene distintos requisitos que se enumeran a continuación: 
 
 ##### Talleres matutinos:
 * Reconocimiento de patrones en bioseñales: Python 2.7
 * Object recognition with python for beginers: Python 
-* Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7, Sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
+* Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7, y sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
 * Representation Learning- Una red neuronal, multiples soluciones:
 
 
