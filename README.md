@@ -30,10 +30,37 @@ Lo que desees siempre y cuando los horarios de tales actividades no se solapen. 
 Accede al formulario de registro en el [enlace](https://devdaymidai2019.eventbrite.com) y revisa el programa de actividades.
 Después, selecciona la cantidad de entradas que necesites para cada taller/plática (SÓLO LAS NECESARIAS, ¡RECUERDA QUE ES CUPO LIMITADO!). Una vez terminado el registro, te llegará un archivo PDF a tu email: ese es tu pase de entrada.
 
+#### ¿Cómo me acredito el día del evento?
+Tu ticket de entrada de evenbrite lo puedes traer desde tu celular, no es necesario imprimirlo. Usaremos escaneo de los códigos QR para llevar los accesos y registros.
+
+#### ¿Qué conocimientos requiero?
+Para los talleres en general es indispensable tener bases de programación (ej. bucles,arrays y matrices, funciones) y un IDE ya instalado (Jupyter o cualquiera de Python recomendados). 
+
+
 #### ¿Qué debo llevar a los talleres/pláticas?
+
 Cada actividad tiene distintos requisitos. 
+Para las charlas matutinas del salón RAE no es necesario llevar equipo.
+y traer tu laptop con el software apropiado. 
+
+Los requisitos específicos por taller son los siguientes:
+
+##### Talleres matutinos:
+Reconocimiento de patrones en bioseñales: Python 2.7
+Object recognition with python for beginers: Python 
+Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7, Sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
+Representation Learning- Una red neuronal, multiples soluciones:
 
 
+##### Talleres vespertinos:
+Introducción a Keras: laptop con python y keras instalado en su versión estable más reciente.
+Introducción al ML: Python 3.6 o 3.7 y deseable linux instalado
+Análisis de graph databases: 
+Procesamiento de lenguaje natural: Acceso a internet, navegador compatible con Google Colab.
+
+
+#### ¿Dónde está disponible el material o código que se imparta en los talleres?
+En esta cuenta de github se subirán los materiales que nos vayan compartiendo los talleristas.
 
 #### ¿Quiénes colaboran en este evento?
 Organizaciones como la Asociación Juvenil de Ciencia de Yucatán (AJC) y el capítulo mexicano de inteligencia artificial de la AAAI (AAAI MX), Data Mérida, miembros de instituciones educativas como el IIMAS y la UADY, así como empresas entre las que figuran KSquare, Nearsoft, SoldAI, Fablab y Wearable Bioelectronics.
