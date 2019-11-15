@@ -49,7 +49,7 @@ Para los talleres es indispensable traer tu laptop con el software apropiado, ca
 * Introducción a Keras: laptop con python y keras instalado en su versión estable más reciente.
 * Introducción al ML: Python 3.6 o 3.7 y deseable linux instalado
 * Análisis de graph databases: 
-* Procesamiento de lenguaje natural: Acceso a internet, navegador compatible con Google Colab.
+* Procesamiento de lenguaje natural: Acceso a internet, navegador compatible con Google Colab. Puedes consultar la agenda [aquí](https://github.com/devdaymid/devday-ai/blob/master/Workshop%20Introducci%C3%B3n%20al%20Procesamiento%20de%20Lenguaje%20Natural.pdf)
 
 
 #### ¿Dónde está disponible el material o código que se imparta en los talleres?
