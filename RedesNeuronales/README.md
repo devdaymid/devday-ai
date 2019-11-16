@@ -1,1 +1,1 @@
-TEST
+En esta carpeta se encuentran los datasets que usaremos en el taller. Si usan Python, trabajaran con la extención .npy. Para Matlab/Ocatave .mat. Si usan otro lenguaje de programación están tambien disponibles en formato CSV.
