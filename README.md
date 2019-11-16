@@ -42,7 +42,7 @@ Para los talleres es indispensable traer tu laptop con el software apropiado, ca
 * Reconocimiento de patrones en bioseñales: Python 2.7
 * Object recognition with python for beginers: Python 
 * Redes nuronales desde cero, teora y práctica: Python 3.6 o 3.7 o MATLAB/OCTAVE, y sugerido pero no indispensable: conocimientos elementales de algebra lineal y cálculo diferencial (se tratarán ambos temas en el taller).
-* Representation Learning- Una red neuronal, multiples soluciones:
+* Representation Learning- Una red neuronal, multiples soluciones: Jupyter notebooks y descargar la carpeta de esta repo.
 
 
 ##### Talleres vespertinos:
