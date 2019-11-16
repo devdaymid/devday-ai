@@ -55,6 +55,9 @@ Para los talleres es indispensable traer tu laptop con el software apropiado, ca
 #### ¿Dónde está disponible el material o código que se imparta en los talleres?
 En esta cuenta de github se subirán los materiales que nos vayan compartiendo los talleristas.
 
+* El código del taller "Introducción al ML" se encuentra en el siguiente [enlace](https://github.com/EstebanBrito/intro-to-ml).   
+Se anexará a este repositorio para su futura consulta.
+
 #### ¿Quiénes colaboran en este evento?
 Organizaciones como la Asociación Juvenil de Ciencia de Yucatán (AJC) y el capítulo mexicano de inteligencia artificial de la AAAI (AAAI MX), Data Mérida, miembros de instituciones educativas como el IIMAS y la UADY, así como empresas entre las que figuran KSquare, Nearsoft, SoldAI, Fablab y Wearable Bioelectronics.
 
